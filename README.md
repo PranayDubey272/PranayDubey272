@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PranayDubey272
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React Projects
+- 👋Hi, I’m Pranay Dubey
+- 🎓 I'm a MCA student at NIT Allahabad, India
+- 🧑‍💻 I am interested in Problem-solving and Web Development.
 - 📫 How to reach me -  pranaydubey272@gmail.com
 
 <!---
