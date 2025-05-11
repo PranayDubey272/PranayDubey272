@@ -1,15 +1,26 @@
-- 👋Hi, I’m Pranay Dubey
-- 🎓 I'm a MCA student at NIT Allahabad, India
-- 🧑‍💻 I am interested in Problem-solving and Web Development.
-- 📫 How to reach me -  pranaydubey272@gmail.com
+- 👋 Hi, I’m Pranay Dubey
+- 🎓 MCA student @ NIT Allahabad — learning systems by night, breaking them by day  
+- 🧑‍💻 Developer | Problem Solver | Terminal Resident (GUI? Never heard of her)  
+- 🧠 Currently refactoring life decisions like legacy code  
+- 📫 Reach me: pranaydubey272@gmail.com (or send a carrier pigeon with JSON payload)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranayDubey272" alt="PranayDubey272" /></a> </p>
+## 🧰 Setup: Because Tools Matter
 
+- **Editor:** Neovim (configuring it took longer than my MCA project)
+- **OS:** Arch Linux, btw (because I hate myself just enough)
+- **Shell:** zsh inside tmux inside a spiral of productivity
+- **Browser Tabs Open:** ~47, all Stack Overflow
+  
+> “I use Neovim on Arch, inside a tmux session, inside a terminal, inside a void of existential dread.”
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranayDubey272&show_icons=true&locale=en" alt="PranayDubey272" /></p>
+- 🛠️ Knows just enough DevOps to make Heroku cry
+- 📦 Has used `docker-compose` in anger
+- 😇 Writes clean code. Comments like a poet.
+- 🧘 Practices the ancient art of `:wq`
+  
+## 📎 In Summary
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranayDubey272&" alt="PranayDubey272" /></p>
-<!---
-PranayDubey272/PranayDubey272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Yes, I use Arch.  
+Yes, I use Neovim.  
+No, I won’t stop.  
+Please, Hire me!
