@@ -9,7 +9,7 @@
 - **Editor:** Neovim (configuring it took longer than my MCA project)
 - **OS:** Arch Linux, btw (because I hate myself just enough)
 - **Shell:** zsh inside tmux inside a spiral of productivity
-- **Browser Tabs Open:** ~47, all Stack Overflow
+- **Browser Tabs Open:** ~47
   
 > “I use Neovim on Arch, inside a tmux session, inside a terminal, inside a void of existential dread.”
 
