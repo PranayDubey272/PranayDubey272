@@ -4,7 +4,7 @@
 - 🧠 Currently debugging life decisions like they’re legacy code — spoiler: no breakpoints yet
 - 📫 Reach me: pranaydubey272@gmail.com (or send a carrier pigeon with JSON payload)
 
-## 🧰 Setup: Because Tools Matter
+## Setup: Because Tools Matter
 
 - **Editor:** Neovim (tweaked more than my MCA assignments)
 - **OS:** Arch Linux, btw (because I hate myself just enough)
