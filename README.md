@@ -11,7 +11,7 @@
 - **Shell:** zsh inside tmux inside a spiral of productivity
 - **Browser Tabs Open:** ~47
   
-> “I use Neovim on Arch, inside a tmux session, inside a terminal i made myself, inside a void of existential dread,so no i don't have a girlfriend.”
+> “I use Neovim on Arch, inside a tmux session, inside a terminal i made myself, inside a void of existential dread, so no i don't have a girlfriend.”
 
 - 🛠️ Knows just enough DevOps to make Heroku cry
 - 📦 Has used `docker-compose` in anger
