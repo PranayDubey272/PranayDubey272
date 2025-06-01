@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Pranay Dubey
 - 🎓 MCA student @ NIT Allahabad — learning systems by night, breaking them by day  
 - 🧑‍💻 Developer | Problem Solver | Terminal Resident (GUI? Never heard of her)  
-- 🧠 Currently refactoring life decisions like legacy code  
+- 🧠 Currently debugging life decisions like they’re legacy code — spoiler: no breakpoints yet
 - 📫 Reach me: pranaydubey272@gmail.com (or send a carrier pigeon with JSON payload)
 
 ## 🧰 Setup: Because Tools Matter
 
-- **Editor:** Neovim (configuring it took longer than my MCA project)
+- **Editor:** Neovim (tweaked more than my MCA assignments)
 - **OS:** Arch Linux, btw (because I hate myself just enough)
 - **Shell:** zsh inside tmux inside a spiral of productivity
 - **Browser Tabs Open:** ~47
